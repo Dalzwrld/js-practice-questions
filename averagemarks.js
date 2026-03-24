@@ -28,3 +28,7 @@ if (average < 60) {
     console.log("Grade: A");
 };
 
+console.log("Average mark: " + average);
+console.log("Grade: ");
+
+

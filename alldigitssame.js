@@ -1,3 +1,5 @@
+//All digits similar within a number
+
 let num = 1111;
 
 let numStr = num.toString();

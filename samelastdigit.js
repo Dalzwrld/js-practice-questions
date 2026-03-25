@@ -1,3 +1,5 @@
+//Similar last digit between three numbers
+
 let x = 25;
 let y = 35;
 let z = 45;

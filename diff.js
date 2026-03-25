@@ -1,3 +1,5 @@
+//Difference between a number and 13, if the number is >13, return double the absolute difference
+
 let num = 12;
 let result; 
 

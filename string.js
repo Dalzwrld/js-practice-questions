@@ -1,3 +1,5 @@
+//Swapping the first & last charachers in a string
+
 let str = "hello";
 
 if (str.length < 1) {

@@ -1,3 +1,5 @@
+//Calculating teh average mark and grade
+
 console.log('Outputting in the console');
 
 let students = [

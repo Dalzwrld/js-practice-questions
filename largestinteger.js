@@ -1,3 +1,5 @@
+//The largest integer between two numbers.
+
 console.log('Outputting in the console');
 
 let num1 = 10;

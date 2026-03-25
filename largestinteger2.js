@@ -1,11 +1,11 @@
-let a = 10;
-let b = 20;
-let c = 30;
+let x = 10;
+let y = 20;
+let z = 30;
 
-if (a >= b && a >= c) {
-    console.log("Largest number is" + "" + a);
-} else if (b >= a && b >= c){
-    console.log("Largest number is" + "" + b);
+if (x >= y && x >= z) {
+    console.log("Largest number is" + "" + x);
+} else if (y >= x && y >= z){
+    console.log("Largest number is" + "" + y);
 } else {
-    console.log("Largest number is" + "" + c);
+    console.log("Largest number is" + "" + z);
 }

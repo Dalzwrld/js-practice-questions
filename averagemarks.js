@@ -1,6 +1,4 @@
-//Calculating teh average mark and grade
-
-console.log('Outputting in the console');
+//Calculating the average mark and grade of 5 students
 
 let students = [
     {name:"Jane", mark: 80},
@@ -29,8 +27,5 @@ if (average < 60) {
 } else if (average <= 100) {
     console.log("Grade: A");
 };
-
-console.log("Average mark: " + average);
-console.log("Grade: ");
 
 

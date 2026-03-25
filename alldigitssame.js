@@ -1,4 +1,4 @@
-//All digits similar within a number
+//Whether all digits are similar within a number
 
 let num = 1111;
 

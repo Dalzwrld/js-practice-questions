@@ -9,7 +9,7 @@ let lastY = y % 10;
 let lastZ = z % 10;
 
 if (lastX === lastY && lastX === lastZ) {
-    console.log("${x}, ${y} and ${z} have the same last digit");       
+    console.log("x, y and z have the same last digit");       
 } else {
-    console.log("${x}, ${y} and ${z} have different last digits");
+    console.log("x, y and z have different last digits");
 }

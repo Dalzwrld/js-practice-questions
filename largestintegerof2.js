@@ -1,4 +1,4 @@
-//The largest integer between two numbers
+//1. The largest integer between two numbers.
 
 let num1 = 10;
 let num2 = 20;

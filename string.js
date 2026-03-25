@@ -1,4 +1,4 @@
-//Swapping the first & last characters in a string
+//5. Swapping the first & last characters in a string.
 
 let str = "hello";
 

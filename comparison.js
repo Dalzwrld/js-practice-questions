@@ -1,4 +1,4 @@
-//Check if one of two numbers is 50 or if their sum is 50
+//4. Check if one of two numbers is 50 or if their sum is 50.
 
 let x = 20;
 let y = 30;

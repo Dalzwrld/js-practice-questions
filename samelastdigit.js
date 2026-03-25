@@ -1,4 +1,4 @@
-//Similar last digit between three numbers
+//6. Similar last digit between three numbers.
 
 let x = 25;
 let y = 35;

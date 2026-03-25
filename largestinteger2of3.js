@@ -1,4 +1,4 @@
-//The largest integer between three numbers
+//7. The largest integer between three numbers.
 
 let x = 10;
 let y = 20;

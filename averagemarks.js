@@ -1,4 +1,4 @@
-//Calculating the average mark and grade of 5 students
+//2. Calculating the average mark and grade of 5 students.
 
 let students = [
     {name:"Jane", mark: 80},

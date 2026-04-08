@@ -7,9 +7,9 @@ if (str.length < 1) {
     let last = str[str.length -1];
     let middle = str.slice(1, str.length - 1);
 
-    let newstr = last + middle + first;
+    let newStr = last + middle + first;
 
-    console.log(newstr);
+    console.log(newStr);
 
 } else {
     console.log(str);
